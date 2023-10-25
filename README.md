@@ -1,4 +1,4 @@
-- [Markdown: Syntax](#markdown-syntax)
+- [Markdown記法 チートシート](#markdown記法-チートシート)
   - [Block Elements](#block-elements)
     - [Headers](#headers)
       - [Atx-style](#atx-style)
@@ -29,7 +29,7 @@
       - [参照スタイル](#参照スタイル-1)
       - [サイズ指定](#サイズ指定)
 
-# Markdown: Syntax
+# Markdown記法 チートシート
 ## Block Elements
 ### Headers
 #### Atx-style
